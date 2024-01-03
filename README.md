@@ -3,8 +3,8 @@ This is a project repository for a small research group on URL detection. Our go
 
 ## OUR GOALS
 - [x] Create a prototype model
-- [ ] Create a responsive website
-- [ ] Deploy a model into the website
+- [x] Create a responsive website
+- [x] Deploy a model into the website
 - [ ] Hosting the website
 - [ ] Implement MLOps Cycle
 - [ ] Testing Phase
